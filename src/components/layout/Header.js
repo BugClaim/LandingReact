@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
+                        <a href="https://app.bugclaim.com/login" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</a>
                       </li>
                     </ul>}
                 </div>
