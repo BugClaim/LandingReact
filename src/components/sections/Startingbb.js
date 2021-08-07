@@ -44,8 +44,8 @@ const Startingbb = ({
   );
 
   const sectionHeader = {
-    title: 'Customer testimonials',
-    paragraph: 'Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.'
+    title: 'Starting a Bug Bounty Program is Simple',
+    paragraph: ''
   };
 
   return (
@@ -60,46 +60,36 @@ const Startingbb = ({
 
             <div className="tiles-item reveal-from-right" data-reveal-delay="200">
               <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
+              <span className="testimonial-item-name text-color-high">Define</span>  
+              <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider"></div>
+                <div className="">
                   <p className="text-sm mb-0">
                   Start your security program within one hour with our intuitive interface, predefined templates and intelligent reward recommendations. Access hackers profiles and choose the most suitable ones for each Bug Bounty program or crowdsourced pentest.
                       </p>
-                </div>
-                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Roman Level</span>
-                  <span className="text-color-low"> / </span>
-                  <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
-                  </span>
                 </div>
               </div>
             </div>
 
             <div className="tiles-item reveal-from-bottom">
-              <div className="tiles-item-inner"><span className="testimonial-item-name text-color-high">Diana Rynzhuk</span>
+              <div className="tiles-item-inner"><span className="testimonial-item-name text-color-high">Analyze</span>
+              <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
+                </div>
                 <div className="">
                   <p className="text-sm mb-0">
                   Take advantage of collaborative capabilities to interact with hackers about their submitted reports and speed up triage. Use the dashboards to monitor all your programs, vulnerabilities and budgets.
                       </p>
-                </div>
-                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                 </div>
               </div>
             </div>
 
             <div className="tiles-item reveal-from-left" data-reveal-delay="200">
               <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
+              <span className="testimonial-item-name text-color-high">Remediate</span>
+              <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider"></div>
+                <div className="">
                   <p className="text-sm mb-0">
                   Increase your productivity by receiving only Validated vulnerabilities reports; with a higher acceptance rate and better accuracy. Seamlessly integrate vulnerabilities information into your development tools like Gitlab, Jira or by using our API.
                       </p>
-                </div>
-                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Ben Stafford</span>
-                  <span className="text-color-low"> / </span>
-                  <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
-                  </span>
                 </div>
               </div>
             </div>
