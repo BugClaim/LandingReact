@@ -118,6 +118,9 @@ const Header = ({
                     <li>
                       <Link to="#0" onClick={closeMenu}>Pricing</Link>
                     </li>
+                    <li>
+                      <Link to="#0" onClick={closeMenu}>Why Bugclaim</Link>
+                    </li>
                   </ul>
                   {!hideSignin &&
                     <ul
