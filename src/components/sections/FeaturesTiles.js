@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'BugClaim',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    paragraph: 'Bugclaim’s SaaS platform is simple to use and allows you to quickly define your security challenges, analyze vulnerability reports, campaign performance, and facilitate remediation.'
   };
 
   return (
