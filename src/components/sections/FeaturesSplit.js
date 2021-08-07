@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/female-hacker-wearing-a-hoodie-using-a-dangerous-virus.jpg')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/young-hacker-making-a-dangerous-virus-for-cyber-attacks.jpg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/video-screen-capture.jpg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
