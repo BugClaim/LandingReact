@@ -67,14 +67,14 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Continuous Security Evaluation through Crowd
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Startup Friendly plans
+                Security With Crowd
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                Protect your company against the most critical threats from the Internet Criminals by utilizing the power of crowd. Data breaches are common among organizations. Most do not realize that they have been breached until it's too late.
+                </p>
               </div>
               <div className={
                 classNames(
@@ -93,13 +93,14 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  For Companies, Need Limited Researchers
                   </div>
                 <h3 className="mt-0 mb-12">
                   Private Programs
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Cybersecurity of companies is a rising threat in the digital world. With updates in new technology, threats and vulnerabilities are also rising rapidly.
+                To limit the usage we provide private programs.
                   </p>
               </div>
               <div className={
@@ -119,13 +120,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Get Verification In Hours
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Quality Researchers
+                  Save Time Save Money
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Bugclaim Provides fast and seamless security tests and Verification of vulnerabilities Eliminating chances of duplicate reports.
                   </p>
               </div>
               <div className={
