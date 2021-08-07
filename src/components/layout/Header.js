@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Documentation</Link>
+                      <Link to="#0" onClick={closeMenu}>About Us</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <a href="https://app.bugclaim.com/login" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</a>
+                        <a href="https://app.bugclaim.com/login" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Log In</a>
                       </li>
                     </ul>}
                 </div>
