@@ -58,6 +58,22 @@ const Pricing = ({
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={tilesClasses}>
 
+          <div className="tiles-item reveal-from-bottom">
+              <div className="tiles-item-inner">
+                <div className="">
+                <h4>Self Managed</h4>
+                  <p className="text-sm mb-0">
+                    - Pay per Bug
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                    - Retesting 
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                    - Pay Only for Bug
+                      </p>
+                      <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                </div>
+              </div>
+            </div>
+
             <div className="tiles-item reveal-from-right" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="">
@@ -67,47 +83,43 @@ const Pricing = ({
                     <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
                     - Rapid Testing 
                     <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
-                    - Concentrated Testing by Researchers
-  
+                    - Concentrated Testing
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                    - Support 
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                    - Time Bounded Program 
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
                       </p>
                 </div>
 
               </div>
             </div>
+
 
             <div className="tiles-item reveal-from-bottom">
               <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
+                <div className="">
+                <h4>Bugclaim Managed</h4>
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
+                    - Pay per Bug
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                    - Retesting 
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                    - Expert Triage Team
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                    - Dedicated Support Team
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                    - No Duplication No Worry
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                    - Priority Support
+                    <div className="testimonial-item-footer text-xs mt-16 mb-0 has-top-divider"></div>
+                    - Priority Validations
+    
                       </p>
-                </div>
-                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Diana Rynzhuk</span>
-                  <span className="text-color-low"> / </span>
-                  <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
-                  </span>
                 </div>
               </div>
             </div>
-
-            <div className="tiles-item reveal-from-left" data-reveal-delay="200">
-              <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
-                  <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
-                      </p>
-                </div>
-                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Ben Stafford</span>
-                  <span className="text-color-low"> / </span>
-                  <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
-                  </span>
-                </div>
-              </div>
-            </div>
+          
 
           </div>
         </div>
