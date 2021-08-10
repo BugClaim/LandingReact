@@ -119,7 +119,7 @@ const Header = ({
                       <Link to="#0" onClick={closeMenu}>Pricing</Link>
                     </li>
                     <li>
-                      <a href="https://intern.bugclaim.com" rel="noreferrer" onClick={closeMenu}>Careers</a>
+                      <Link to="#W" onClick={closeMenu}>Why Bugclaim</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
