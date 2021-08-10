@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bcd3b42634a0723a7516880ecaee319",
+    "revision": "e3e6d2501c3531a152bac0a1fdae1ac5",
     "url": "/index.html"
   },
   {
-    "revision": "3af1a87e6f8004715b01",
-    "url": "/static/css/main.377c3d0c.chunk.css"
+    "revision": "3ad26dc498cdf4aa29a7",
+    "url": "/static/css/main.2e425c31.chunk.css"
   },
   {
-    "revision": "21d20ea82e93c3714990",
-    "url": "/static/js/2.7ed4f82b.chunk.js"
+    "revision": "b97c802099512a041c62",
+    "url": "/static/js/2.aeb5670b.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/static/js/2.7ed4f82b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.aeb5670b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3af1a87e6f8004715b01",
-    "url": "/static/js/main.57612fba.chunk.js"
+    "revision": "3ad26dc498cdf4aa29a7",
+    "url": "/static/js/main.74cae6ff.chunk.js"
   },
   {
     "revision": "c307e69827cf23a9bfac",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
     "url": "/static/media/cta-illustration.3ce357e7.svg"
+  },
+  {
+    "revision": "6e7b22af48e38591156a168a49da03f5",
+    "url": "/static/media/dashbug.6e7b22af.png"
   },
   {
     "revision": "0f9928d77bc67692e90527ec092fcbd0",
@@ -52,16 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/feature-tile-icon-06.6a177696.svg"
   },
   {
-    "revision": "d9cb99ceb6a66250792ed78f5765325b",
-    "url": "/static/media/features-split-image-01.d9cb99ce.png"
-  },
-  {
-    "revision": "3c569239f88160018f79029ba5dc227d",
-    "url": "/static/media/features-split-image-02.3c569239.png"
-  },
-  {
-    "revision": "87e4d053756c60c9f421195d8eafdbfe",
-    "url": "/static/media/features-split-image-03.87e4d053.png"
+    "revision": "b28bc4c80d60effed9c40b205b058235",
+    "url": "/static/media/female-hacker-wearing-a-hoodie-using-a-dangerous-virus.b28bc4c8.jpg"
   },
   {
     "revision": "ea6949039d6554ebf2cf109f333f5811",
@@ -72,11 +68,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "2810a88b1d6365b363caeabe678f1629",
-    "url": "/static/media/logo.2810a88b.svg"
+    "revision": "f5295791a5ca0e730d642c7b569a8a1d",
+    "url": "/static/media/video-placeholder.f5295791.jpg"
   },
   {
-    "revision": "a622fc5dd8adcdd27ea42218385013b4",
-    "url": "/static/media/video-placeholder.a622fc5d.jpg"
+    "revision": "10b1cdc890dfe2e2565193486516a1a4",
+    "url": "/static/media/video-screen-capture.10b1cdc8.jpg"
+  },
+  {
+    "revision": "cd14a6a73774d107bbc121c677e1f739",
+    "url": "/static/media/young-hacker-making-a-dangerous-virus-for-cyber-attacks.cd14a6a7.jpg"
   }
 ]);
